@@ -1,0 +1,1 @@
+# Segmentasi-Citra-Grayscale-dengan-Metode-K-Means-Clustering
